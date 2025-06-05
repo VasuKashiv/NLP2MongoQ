@@ -1,0 +1,4 @@
+weaviate-client==3.26.2
+google-generativeai
+sentence-transformers
+streamlit
